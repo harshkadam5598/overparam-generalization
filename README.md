@@ -1,4 +1,4 @@
-# An Empirical Study of Generalization in Overparameterized Neural Network
+# An Empirical Study of Generalization in Overparameterized Neural Networks
 
 ## Motivation
 Understanding generalization behavior in overparameterized models is a central topic
